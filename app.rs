@@ -11,3 +11,17 @@ fn main(){
 
 // print , println and assert_eq is the built in function you can call it by name and ! or ::  
 
+fn main(){
+    let x : i32 = 10;
+    {
+        let y: i32 = 10;
+       println!("{}",y);
+    }
+    println!("{} {}",x, y);
+    
+
+
+    
+}
+
+// 
