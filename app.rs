@@ -24,4 +24,5 @@ fn main(){
     
 }
 
-// 
+// {} can used to define the scope 
+// if we want to print more than two varible you can you "{}" if two then "{}{}" and so on
