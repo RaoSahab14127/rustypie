@@ -1,0 +1,13 @@
+fn main(){
+    let mut x = 1;
+    x += 1;
+    assert_eq!(x, 2);
+    println!("success");
+}
+
+// here in above code we are creating an variable that is taking a number
+
+// let for variable mut for mutable so that can change over the period of time
+
+// print , println and assert_eq is the built in function you can call it by name and ! or ::  
+
